@@ -6,6 +6,6 @@
 
 ## APK to android
 
-That is the link to you Download and instal that APK. [Download](https://github.com/Sopzak/ResumeDelivery/APK/ResumeDelivery.apk)
+That is the link to you Download and instal that APK. [Download](https://github.com/Sopzak/ResumeDelivery/raw/main/APK/ResumeDelivery.apk)
 
 How to install third party apps without the Google Play Store. [Here](https://www.androidauthority.com/how-to-install-apks-31494/)
