@@ -3,7 +3,7 @@
 <p align="center">A game about a character who needs to submit my resume to UBISOFT Studio in Halifax.</p>
 
 ## Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ViFKGgLKpWc/0.jpg)](https://www.youtube.com/watch?v=ViFKGgLKpWc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pXAVfpxEfE0/0.jpg)](https://www.youtube.com/watch?v=pXAVfpxEfE0)
 
 ## APK to android
 
